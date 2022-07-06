@@ -1,22 +1,13 @@
 		Hacker Rank Python Bascis Skills certification test
 1. Python: String Transformation:-
 
-#!/bin/python3
+
 
 import math
 import os
 import random
 import re
 import sys
-
-
-
-#
-# Complete the 'transformSentence' function below.
-#
-# The function is expected to return a STRING.
-# The function accepts STRING sentence as parameter.
-#
 
 def transformSentence(sentence):
     # Write your code here
